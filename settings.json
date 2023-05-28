@@ -1,0 +1,10 @@
+{
+  "urls": [
+    {
+      "url": "https://glenngijsberts.vercel.app/",
+      "isActive": true
+    }
+  ],
+  "categories": ["performance", "accessibility", "best-practices", "seo"],
+  "locale": "nl-NL"
+}

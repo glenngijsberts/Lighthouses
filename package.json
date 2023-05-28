@@ -1,0 +1,14 @@
+{
+  "name": "lighthouses",
+  "version": "1.0.0",
+  "description": "Script to generate lighthouse reports",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node src/index.mjs"
+  },
+  "author": "Glenn Gijsberts",
+  "license": "MIT",
+  "dependencies": {
+    "lighthouse": "^10.0.2"
+  }
+}
